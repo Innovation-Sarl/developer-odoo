@@ -2,5 +2,5 @@
 This repository is for developers odoo
 
 
-// Test readme!
+// Test and get a notification!
 
