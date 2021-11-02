@@ -2,5 +2,5 @@
 This repository is for developers odoo
 
 
-// Test and get a notification!
+// I enjoy working with Odoo!
 
