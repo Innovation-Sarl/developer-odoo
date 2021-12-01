@@ -1,6 +1,5 @@
 # developer-odoo
 This repository is for developers odoo
 
+Hey I am trying something new! 
 
-// I enjoy working with Odoo!
-// This is a test! 
